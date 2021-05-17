@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A Better Way</string>
+    <string name="family_contact">Family Contacts</string>
+    <string name="friends_contact">Friends Contacts</string>
+    <string name="tutor_contacts">Tutor\nContacts</string>
+    <string name="business_contacts">Business Contacts</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="add_new_contact">Add new Contact</string>
+    <string name="enter_number">Enter phone number</string>
+    <string name="enter_name">Enter name</string>
+    <string name="save">Save</string>
+</resources>
